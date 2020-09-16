@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Idioma Francés-->
+<resources>
+    <string name="app_name">Mon projet</string>
+    <string name="titulo_app">Bienvenue!</string>
+</resources>

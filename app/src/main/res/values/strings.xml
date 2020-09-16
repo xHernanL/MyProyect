@@ -1,0 +1,5 @@
+<!--Idioma Español (default)-->
+<resources>
+    <string name="app_name">Mi proyecto</string>
+    <string name="titulo_app">Bienvenido!</string>
+</resources>
